@@ -28,10 +28,12 @@ The script works by running a loop that does the following steps:
 
 ## Examples
 
-**Plot of Actual vs Predicted values and prediction error
+**Plot of Actual vs Predicted values and prediction error:**
+
 ![](images/Timeseries_Graph.png)
 
-**Console Output
+**Console Output:**
+
 ![](images/Timeseries_Console.png)
 
 ## Notes
