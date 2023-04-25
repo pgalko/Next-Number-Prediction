@@ -290,7 +290,7 @@ print("\nTokens used: {}".format(reasonning[1]))
 
 # Print the total tokens used.
 total_tokens_used.append(reasonning[1])
-print("\n\033[93Total tokens used: {}\033[0m".format(sum(total_tokens_used)))
+print("\n\033[93mTotal tokens used: {}\033[0m".format(sum(total_tokens_used)))
 print("\033[93mCost(USD): ${}\033[0m".format((sum(total_tokens_used)/1000)*0.002))
 
 #-------------------BENCHMARK MODEL-------------------#
